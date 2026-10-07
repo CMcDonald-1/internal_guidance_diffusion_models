@@ -1,0 +1,11 @@
+# Tested with Python 3.11+ and the versions below.
+# For a CUDA GPU build of PyTorch, follow https://pytorch.org/get-started/locally/
+torch==2.11.0
+numpy==2.4.4
+pandas==3.0.5
+scipy==1.18.0
+matplotlib==3.11.1
+ortools==9.15.6755        # exact nearest-valid-grid distances (Sudoku 9x9, Fig. 21)
+
+# Optional: experiment logging during training (--wandb)
+# wandb==0.28.1

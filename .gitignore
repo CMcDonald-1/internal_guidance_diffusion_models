@@ -1,0 +1,27 @@
+# datasets and checkpoints are downloaded separately (see README)
+data/*
+!data/README.md
+ckpt/*
+!ckpt/README.md
+
+# Python / environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# run outputs
+logs/
+*.log
+*.out
+*.err
+wandb/
+
+# editor / OS / tool clutter
+.Rhistory
+.RData
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

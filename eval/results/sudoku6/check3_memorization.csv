@@ -1,0 +1,2 @@
+tau_98,target_p,exact_success_rate,n,n_reward_hit,n_valid,n_distinct_generated,n_train_rows,n_distinct_train_rows,n_exact_match,exact_match_rate,n_exact_match_and_valid,K,T,schedule,seed
+3.4181296368419556,0.98,0.98,1000,976,917,1000,5000000,4998875,10,0.01,10,1000,20.0,sstar,0

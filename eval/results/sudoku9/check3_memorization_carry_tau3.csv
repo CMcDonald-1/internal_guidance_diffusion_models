@@ -1,0 +1,2 @@
+ckpt,self_cond_mode,tau,n,K,n_valid_generated,n_exact_matches,chance_expected_matches,n_reference_rows,n_held_rows,nn_model_median,nn_model_p05,nn_model_min,nn_model_mean,nn_held_median,nn_held_p05,nn_held_min,nn_held_mean
+sudoku9_v1_l17_d512x8_xf_sc_s8264_180k.pt,carry,3.0,1000,1000,869,0,3.7476181533013114e-14,250000,250442,51.0,48.0,39,51.0253164556962,51.0,48.0,43,50.995397008055235
