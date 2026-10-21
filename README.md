@@ -8,7 +8,7 @@ regenerate the figures and tables from the trained checkpoints.
 Datasets (~1 GB) and trained checkpoints (~194 MB) are too large to include here
 and are hosted at:
 
-> **https://osf.io/kewg9/overview?view_only=f27273aff9ce44df99b71eec66edfe3c**
+> **https://osf.io/kewg9/**
 
 The quickest route is: install → download → run `eval/` (Sections 1–3).
 Retraining from scratch is optional (Section 5).
